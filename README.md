@@ -26,3 +26,4 @@ Only share your KeyName.pub key.
 cat KeyName.pub to see your public key.
 
 # Command git Push
+git push origin master
